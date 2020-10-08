@@ -1,0 +1,96 @@
+{
+    "produtos": [{
+            "nome": "Camiseta Mescla",
+            "preco": "28,00",
+            "opcoes": [
+                { "Tamanho": "Pequena,Medio,Grande" }
+            ],
+            "imagens": "imagens/img_2.png",
+            "descricao": "Esta é uma camiseta cinza incrível"
+        },
+        {
+            "nome": "Saia em Couro",
+            "preco": "398,00",
+            "opcoes": [
+                { "Tamanho": "unico" },
+                { "Cor": "Preta" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_3.png",
+            "descricao": "Saia em Couro de Otima Qualidade"
+        },
+        {
+            "nome": "Cardigan Tigre",
+            "preco": "398,00",
+            "opcoes": [
+                { "Tamanho": "Pequeno,Medio,Grande" }
+            ],
+            "imagens": "imagens/img_4.png",
+            "descricao": "Casaco com Lindos Detalhes"
+        },
+        {
+            "nome": "Cardigan White",
+            "preco": "99,90",
+            "opcoes": [
+                { "Tamanho": "unico" },
+                { "Cor": "Preta,Branca" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_5.png",
+            "descricao": "Cardigan Tecido de Otima Qualidade"
+        },
+        {
+            "nome": "Body Leopardo",
+            "preco": "129,90",
+            "opcoes": [
+                { "Tamanho": "unico" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_6.png",
+            "descricao": "Body de Otima Qualidade"
+        },
+        {
+            "nome": "Casaco Pelos",
+            "preco": "398,00",
+            "opcoes": [
+                { "Tamanho": "Pequeno,Medio,Grande,Extra Grande" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_7.png",
+            "descicao": "Casaco Tecido de Otima Qualidade,Quentinho!"
+        },
+        {
+            "nome": "Croppped Stripes",
+            "preco": "120,00",
+            "opcoes": [
+                { "Tamanho": "Pequeno,Medio,Grande,Extra Grande" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_8.png",
+            "descicao": "Cropped lindo e confortavél"
+        },
+        {
+            "nome": "Camiseta Transparente",
+            "preco": "398,00",
+            "opcoes": [
+                { "Tamanho": "Pequeno,Medio,Grande" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_9.png",
+            "descicao": "Camiseta confortavél"
+        },
+        {
+            "nome": "Pochete Clucth",
+            "preco": "99,00",
+            "opcoes": [
+                { "Tamanho": "Unico" },
+                { "OneOfAKind": true }
+            ],
+            "imagens": "imagens/img_10.png",
+            "descicao": "Pochete Linda"
+        }
+
+
+
+    ]
+}
